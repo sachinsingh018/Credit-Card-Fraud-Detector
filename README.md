@@ -10,7 +10,7 @@ A credit card fraud detection project typically involves the comparison of diffe
 
 Decision trees are simple and interpretable algorithms that work well when the relationship between the features and the target variable is straightforward. They divide the feature space into a set of rectangles, and make a prediction for each rectangle based on the majority class of the training examples that fall into that rectangle. Decision trees can be trained very quickly, but they can overfit the training data if the tree is allowed to grow too deep.
 
-## XGoost
+## XGBoost
 ![image](https://user-images.githubusercontent.com/38975177/217242117-8b7adc74-4724-42db-a02c-ddb02f8b4882.png)
 
 
